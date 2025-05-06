@@ -71,7 +71,7 @@ const submit = () => {
         </Button>
 
         <!-- Login via Inisiator -->
-        <a href="/auth/inisiator/redirect"
+        <!-- <a href="/auth/inisiator/redirect"
           class="relative inline-flex justify-center items-center gap-2 rounded-lg border border-gray-300 dark:border-gray-700 text-gray-800 dark:text-white px-4 py-2 text-sm font-medium hover:bg-gray-100 dark:hover:bg-gray-800 transition-all">
           <LogIn class="w-4 h-4" />
           Login via Inisiator
@@ -79,7 +79,7 @@ const submit = () => {
             class="absolute -top-2 -right-2 bg-indigo-600 text-white text-[10px] font-semibold px-2 py-0.5 rounded-full shadow-md">
             SSO
           </span>
-        </a>
+        </a> -->
       </div>
 
       <div class="text-center text-sm text-muted-foreground">
